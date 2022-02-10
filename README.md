@@ -1,4 +1,4 @@
-# -QR-code-component-with-HTML-CSS-and-Flexbox
+# QR-code-component-with-HTML-CSS-and-Flexbox
 
 # Frontend Mentor - QR code component solution
 
